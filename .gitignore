@@ -1,0 +1,5 @@
+#hi
+
+logs
+*.log
+npm-debug.log*
